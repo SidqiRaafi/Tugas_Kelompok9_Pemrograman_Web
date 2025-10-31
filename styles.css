@@ -175,7 +175,7 @@ body {
 
 /* Header/Banner */
 .header {
-    background-image: linear-gradient(rgba(78, 52, 46, 0.7), rgba(109, 76, 65, 0.7)), url('/assets/images/banner.jpg');
+    background-image: linear-gradient(rgba(78, 52, 46, 0.7), rgba(109, 76, 65, 0.7)), url('assets/images/banner.jpg');
     background-size: cover;
     background-position: center;
     color: #FFF8DC;
