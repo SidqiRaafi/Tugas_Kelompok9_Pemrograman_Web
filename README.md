@@ -55,7 +55,7 @@ The application uses a carefully selected "Coffee & Cream" color scheme:
 - **Google Fonts** - Georgia serif font family for enhanced readability
 
 ## 📁 Project Structure
-
+```
 Tugas_Kelompok9_Pemrograman_Web/
 ├── index.html # Main HTML file
 ├── styles.css # Complete styling
@@ -65,6 +65,7 @@ Tugas_Kelompok9_Pemrograman_Web/
 │ │ ├── banner.jpg # Novel header banner
 │ │ └── githubbanner.png # GitHub banner
 └── README.md # Project documentation
+```
 
 
 ## 🚀 Getting Started
